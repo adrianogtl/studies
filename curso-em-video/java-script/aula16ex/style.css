@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(60, 60, 250);
+    font: normal normal 1.5em / 1 Arial, sans-serif;
+    color: white;
+}
+
+section#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div#conteudo {
+    width: 800px;
+    background-color: white;
+    color: black;
+    padding: 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.397);
+    border-radius: 20px;
+}
+
+div#formulario>input#numero{
+    width: 100px;
+}
+
+div#formulario>select{
+    display: block;
+    margin-top: 15px;
+    width: 200px;
+}
+
+select>option{
+    font-size: 1.3em;
+}
+
+div#formulario>input{
+    font-size: 0.8em;
+}
+
+div#formulario>input#adicionar{
+    display: inline-block;
+}
+
+div#formulario>input#finalizar{
+    margin-top: 15px;
+}
+
+header,
+footer {
+    text-align: center;
+}
+
+footer>p a {
+    text-decoration: none;
+    color: white;
+}

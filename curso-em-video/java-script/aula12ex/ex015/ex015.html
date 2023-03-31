@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vericador de Idade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Verificador de Idade</h1>
+    </header>
+    <section id="container">
+        <div id="conteudo">
+
+            <div id="formulario">
+                <label for="inascimento">Ano de nascimento:</label>
+                <input type="number" name="nascimento" id="nascimento">
+                <p>Sexo:
+                    <input type="radio" name="sexo" id="masculino" value="Masculino" checked>
+                    <label for="masculino">Masculino</label>
+                    <input type="radio" name="sexo" id="feminino" value="Feminino">
+                    <label for="feminino">Feminino</label>
+                </p>
+
+                <input type="button" value="Verificar" onclick="verificar()">
+            </div>
+            <div id="resultado">
+                <p>Preencha os dados acima para ver o resutado!</p>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; <a href="https://github.com/adrianogtl" target="_blank" rel="author">Adriano Garcia</a></p>
+    </footer>
+</body>
+<script src="script.js"></script>
+
+</html>
