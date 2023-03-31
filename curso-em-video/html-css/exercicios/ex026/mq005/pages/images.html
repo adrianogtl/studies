@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="https://img.icons8.com/fluency/48/null/brazil-circular.png" type="image/x-icon">
+    <title>Imagens</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="../estilos/style.css">
+    <link rel="stylesheet" href="../estilos/images.css">
+    <link rel="stylesheet" href="../estilos/media-query.css">
+</head>
+
+<body onresize="mudouTamanho()">
+    <header>
+        <h1>Meu Site</h1>
+        <span id="burguer" class="material-icons" onclick="clickMenu()">menu</span>
+        <menu id="itens">
+            <ul>
+                <li><a href="../index.html" rel="prev">Home</a></li>
+                <li><a href="images.html" rel="author">Images</a></li>
+                <li><a href="table.html" rel="next">Table</a></li>
+                <li><a href="form.html" rel="next">Form</a></li>
+                <li><a href="https://github.com/adrianogtl" rel="external" target="_blank">GitHub</a></li>
+            </ul>
+        </menu>
+    </header>
+    <main>
+        <article>
+            <picture>
+                <source media="(min-width: 768px)" srcset="../images/ocean-landscape.jpg">
+                <img src="../images/ocean-potrait.jpg" alt="Oceano" title="Oceano">
+            </picture>
+            <span class="description margin-bottom">Pedras empilhadas em uma praia.</span>
+            <picture>
+                <source media="(min-width: 768px)" srcset="../images/mountain-landscape.jpg">
+                <img src="../images/mountain-portrait.jpg" alt="Montanha" title="Montanha">
+            </picture>
+            <span class="description margin-bottom">Uma cordilheira.</span>
+            <picture>
+                <source media="(min-width: 768px)" srcset="../images/field-landscape.jpg">
+                <img src="../images/field-portrait.jpg" alt="Campo" title="Campo">
+            </picture>
+            <span class="description">Um campo ensolarado.</span>
+        </article>
+    </main>
+    <footer>
+        <p>Criado por <a href="http://github.com/adrianogtl" target="_blank" rel="noopener noreferrer">Adriano
+                Garcia</a>.</p>
+    </footer>
+    <script src="../script.js"></script>
+</body>
+
+</html>

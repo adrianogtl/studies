@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="https://img.icons8.com/fluency/48/null/brazil-circular.png" type="image/x-icon">
+    <title>Table</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="../estilos/style.css">
+    <link rel="stylesheet" href="../estilos/table.css">
+    <link rel="stylesheet" href="../estilos/media-query.css">
+</head>
+
+<body onresize="mudouTamanho()">
+    <header>
+        <h1>Meu Site</h1>
+        <span id="burguer" class="material-icons" onclick="clickMenu()">menu</span>
+        <menu id="itens">
+            <ul>
+                <li><a href="../index.html" rel="prev">Home</a></li>
+                <li><a href="images.html" rel="next">Images</a></li>
+                <li><a href="table.html" rel="author">Table</a></li>
+                <li><a href="form.html" rel="next">Form</a></li>
+                <li><a href="https://github.com/adrianogtl" target="_blank" rel="external">GitHub</a></li>
+            </ul>
+        </menu>
+    </header>
+    <main>
+        <article>
+            <h2>Lista de unidades federativas do Brasil por área</h2>
+            <p>Aqui são listadas as áreas das unidades federativas do Brasil. Os valores foram divulgados pelo
+                Instituto Brasileiro de Geografia e Estatística (IBGE), através da Portaria nº 177, de 15 de maio de
+                2020, publicada no Diário Oficial da União (DOU) quatro dias depois, em 19 de maio. A referida
+                portaria atualizou os valores de áreas territoriais do Brasil, dos estados e dos 5 568 municípios,
+                tendo como base o quadro territorial vigente no país no dia 30 de abril de 2019.</p>
+            <p>As unidades federativas com maior área territorial são o Amazonas, com 1 559 167,889 km², e o Pará,
+                com 1 245 870,798 km², ambas na Região Norte, ocupando quase 1/3 do território nacional, seguido por
+                Mato Grosso, no Centro-Oeste (903 207,019 km²). A menor pertencia ao Distrito Federal, também
+                situado no Centro-Oeste (5 760,783 km²), seguido por Sergipe (21 925,424 km²) e Alagoas (27 843,295
+                km²), ambas no Nordeste. A área total do Brasil é de 8 510 295,914 km², o quinto maior país do mundo
+                em extensão territorial.</p>
+            <table>
+                <caption>Classificação dos Estados</caption>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>UF</th>
+                        <th>Área<br>(km²)</th>
+                        <th>%</th>
+                        <th>País</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>AM</td>
+                        <td>1.559.167</td>
+                        <td>18,3</td>
+                        <td>Mongólia</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>PA</td>
+                        <td>1.245.870</td>
+                        <td>14,6</td>
+                        <td>Angola</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>MT</td>
+                        <td>903.207</td>
+                        <td>10,6</td>
+                        <td>Venezuela</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>MG</td>
+                        <td>586.521</td>
+                        <td>6,892</td>
+                        <td>Madagascar</td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>BA</td>
+                        <td>564.760</td>
+                        <td>6,6</td>
+                        <td>França</td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>MS</td>
+                        <td>357.145</td>
+                        <td>4,2</td>
+                        <td>Alemanha</td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>GO</td>
+                        <td>340.203</td>
+                        <td>3,9</td>
+                        <td>Finlândia</td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td>MA</td>
+                        <td>320.642</td>
+                        <td>3,8</td>
+                        <td>Vietnã</td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td>RS</td>
+                        <td>281.707</td>
+                        <td>3,3</td>
+                        <td>Equador</td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td>TO</td>
+                        <td>277.466</td>
+                        <td>3,3</td>
+                        <td>Burkina Faso</td>
+                    </tr>
+                    <tr>
+                        <td>11</td>
+                        <td>PI</td>
+                        <td>251.756</td>
+                        <td>2,9</td>
+                        <td>Guiné</td>
+                    </tr>
+                    <tr>
+                        <td>12</td>
+                        <td>SP</td>
+                        <td>248.219</td>
+                        <td>2,9</td>
+                        <td>Reino Unido</td>
+                    </tr>
+                    <tr>
+                        <td>13</td>
+                        <td>RO</td>
+                        <td>237.765</td>
+                        <td>2,8</td>
+                        <td>Laos</td>
+                    </tr>
+                    <tr>
+                        <td>14</td>
+                        <td>RR</td>
+                        <td>223.644</td>
+                        <td>2,6</td>
+                        <td>Guiana</td>
+                    </tr>
+                    <tr>
+                        <td>15</td>
+                        <td>PR</td>
+                        <td>199.298</td>
+                        <td>2,3</td>
+                        <td>Quirguistão</td>
+                    </tr>
+                    <tr>
+                        <td>16</td>
+                        <td>AC</td>
+                        <td>164.123</td>
+                        <td>1,9</td>
+                        <td>Suriname</td>
+                    </tr>
+                    <tr>
+                        <td>17</td>
+                        <td>CE</td>
+                        <td>148.894</td>
+                        <td>1,7</td>
+                        <td>Nepal</td>
+                    </tr>
+                    <tr>
+                        <td>18</td>
+                        <td>AP</td>
+                        <td>142.470</td>
+                        <td>1,6</td>
+                        <td>Tajiquistão</td>
+                    </tr>
+                    <tr>
+                        <td>19</td>
+                        <td>PE</td>
+                        <td>98.067</td>
+                        <td>1,1</td>
+                        <td>Coreia do Sul</td>
+                    </tr>
+                    <tr>
+                        <td>20</td>
+                        <td>SC</td>
+                        <td>94.730</td>
+                        <td>1,1</td>
+                        <td>Portugal</td>
+                    </tr>
+                    <tr>
+                        <td>21</td>
+                        <td>PB</td>
+                        <td>56.467</td>
+                        <td>0,6</td>
+                        <td>Croácia</td>
+                    </tr>
+                    <tr>
+                        <td>22</td>
+                        <td>RN</td>
+                        <td>52.809</td>
+                        <td>0,6</td>
+                        <td>Bósnia e Herzegovina</td>
+                    </tr>
+                    <tr>
+                        <td>23</td>
+                        <td>ES</td>
+                        <td>46.074</td>
+                        <td>0,5</td>
+                        <td>Estônia</td>
+                    </tr>
+                    <tr>
+                        <td>24</td>
+                        <td>RJ</td>
+                        <td>43.750</td>
+                        <td>0,5</td>
+                        <td>Dinamarca</td>
+                    </tr>
+                    <tr>
+                        <td>25</td>
+                        <td>AL</td>
+                        <td>27.843</td>
+                        <td>0,3</td>
+                        <td>Haiti</td>
+                    </tr>
+                    <tr>
+                        <td>26</td>
+                        <td>SE</td>
+                        <td>21.925</td>
+                        <td>0,2</td>
+                        <td>El Salvador</td>
+                    </tr>
+                    <tr>
+                        <td>27</td>
+                        <td>DF</td>
+                        <td>5.760</td>
+                        <td>0,06</td>
+                        <td>Brunei</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <th>Total</th>
+                    <td>Brasil</td>
+                    <td>8.510.295</td>
+                    <td>100</td>
+                    <td>Brasil</td>
+                </tfoot>
+            </table>
+        </article>
+    </main>
+    <footer>
+        <p>Criado por <a href="http://github.com/adrianogtl" target="_blank" rel="noopener noreferrer">Adriano
+                Garcia</a>.</p>
+    </footer>
+    <script src="../script.js"></script>
+</body>
+
+</html>

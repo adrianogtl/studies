@@ -1,0 +1,589 @@
+1678979157704	geckodriver	INFO	Listening on 127.0.0.1:43543
+1678979158206	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "43343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewOZafa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678979159086	Marionette	INFO	Marionette enabled
+1678979159092	Marionette	INFO	Listening on port 38777
+Read port: 38777
+WebDriver BiDi listening on ws://127.0.0.1:43343
+1678979159227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewOZafa/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:43343/devtools/browser/fc3698fd-6a06-4bad-af4f-9da6bcb5d18d
+1678979343315	Marionette	INFO	Stopped listening on port 38777
+1678979628798	geckodriver	INFO	Listening on 127.0.0.1:59881
+1678979629303	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "47749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePoQKnr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678979630043	Marionette	INFO	Marionette enabled
+1678979630049	Marionette	INFO	Listening on port 46527
+Read port: 46527
+WebDriver BiDi listening on ws://127.0.0.1:47749
+1678979630173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePoQKnr/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:47749/devtools/browser/8f7b20b1-efd8-49b4-9e3a-238f9a8838ac
+1678979637092	Marionette	INFO	Stopped listening on port 46527
+1678981052975	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1678981133542	geckodriver	INFO	Listening on 127.0.0.1:46959
+1678981134046	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "38639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0Ns9eb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678981134782	Marionette	INFO	Marionette enabled
+1678981134786	Marionette	INFO	Listening on port 42901
+Read port: 42901
+WebDriver BiDi listening on ws://127.0.0.1:38639
+1678981134904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Ns9eb/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:38639/devtools/browser/aa6354a9-d3d3-4b2e-a802-35aa4bfce4a3
+1678981144946	Marionette	INFO	Stopped listening on port 42901
+1678981147704	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1678981170565	geckodriver	INFO	Listening on 127.0.0.1:55909
+1678981171070	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "47701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9bLEmR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678981171785	Marionette	INFO	Marionette enabled
+1678981171791	Marionette	INFO	Listening on port 37237
+Read port: 37237
+WebDriver BiDi listening on ws://127.0.0.1:47701
+1678981171931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9bLEmR/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:47701/devtools/browser/2240eb07-3be5-4598-a853-7d4bf91a8c85
+1678981183225	Marionette	INFO	Stopped listening on port 37237
+1678981219447	geckodriver	INFO	Listening on 127.0.0.1:40011
+1678981219952	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "51431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5KcEB1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678981220706	Marionette	INFO	Marionette enabled
+1678981220710	Marionette	INFO	Listening on port 35603
+Read port: 35603
+WebDriver BiDi listening on ws://127.0.0.1:51431
+1678981220828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5KcEB1/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:51431/devtools/browser/d954358b-4e4d-4c2d-a2a3-a39fc29f0b5b
+1678981232379	Marionette	INFO	Stopped listening on port 35603
+1678981289544	geckodriver	INFO	Listening on 127.0.0.1:34291
+1678981290050	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "33413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYGr4Ad"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678981290779	Marionette	INFO	Marionette enabled
+1678981290786	Marionette	INFO	Listening on port 39961
+Read port: 39961
+WebDriver BiDi listening on ws://127.0.0.1:33413
+1678981290901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYGr4Ad/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:33413/devtools/browser/4243cf72-65f8-43d3-b87f-7e1e8c7434d0
+1678981303443	geckodriver	INFO	Listening on 127.0.0.1:39683
+1678981303948	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "48365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenN9lAq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678981304676	Marionette	INFO	Marionette enabled
+1678981304680	Marionette	INFO	Listening on port 35817
+Read port: 35817
+WebDriver BiDi listening on ws://127.0.0.1:48365
+1678981304800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenN9lAq/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:48365/devtools/browser/3ce4f9d2-2aae-43e7-ab38-b1edef0bb59c
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:844:3
+
+console.error: "Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null\nGeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:844:3\n"
+1678981370329	Marionette	INFO	Stopped listening on port 35817
+1678981376046	geckodriver	INFO	Listening on 127.0.0.1:57797
+1678981376552	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "35797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqERml7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678981377299	Marionette	INFO	Marionette enabled
+1678981377303	Marionette	INFO	Listening on port 44969
+Read port: 44969
+WebDriver BiDi listening on ws://127.0.0.1:35797
+1678981377417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqERml7/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:35797/devtools/browser/f6ac860f-b231-43e2-ba5f-14a14bd69bce
+1678981388769	Marionette	INFO	Stopped listening on port 44969
+1678984051077	Marionette	INFO	Stopped listening on port 39961
+1678986017837	geckodriver	INFO	Listening on 127.0.0.1:57453
+1678986018342	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "39883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePPkgAE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678986019080	Marionette	INFO	Marionette enabled
+1678986019085	Marionette	INFO	Listening on port 44717
+Read port: 44717
+WebDriver BiDi listening on ws://127.0.0.1:39883
+1678986019205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePPkgAE/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:39883/devtools/browser/7629b4aa-9b81-400c-9f24-0d65c98e0f83
+1678986024089	Marionette	INFO	Stopped listening on port 44717
+1678986164844	geckodriver	INFO	Listening on 127.0.0.1:49325
+1678986165349	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "50133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileplmolN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678986166083	Marionette	INFO	Marionette enabled
+1678986166088	Marionette	INFO	Listening on port 46629
+Read port: 46629
+WebDriver BiDi listening on ws://127.0.0.1:50133
+1678986166208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileplmolN/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:50133/devtools/browser/743ed756-4524-424b-9f75-d2b757c7a765
+1678986168989	Marionette	INFO	Stopped listening on port 46629
+1678986466095	geckodriver	INFO	Listening on 127.0.0.1:44539
+1678986466600	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "42873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6Fte3q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678986467315	Marionette	INFO	Marionette enabled
+1678986467320	Marionette	INFO	Listening on port 38419
+Read port: 38419
+WebDriver BiDi listening on ws://127.0.0.1:42873
+1678986467455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6Fte3q/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:42873/devtools/browser/0f6edd42-712b-48ee-a0bc-fdb08c8e86bf
+1678986475259	Marionette	INFO	Stopped listening on port 38419
+1678986509304	geckodriver	INFO	Listening on 127.0.0.1:59841
+1678986509810	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "41973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexQX7zC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678986510537	Marionette	INFO	Marionette enabled
+1678986510542	Marionette	INFO	Listening on port 45099
+Read port: 45099
+WebDriver BiDi listening on ws://127.0.0.1:41973
+1678986510661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexQX7zC/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:41973/devtools/browser/68f53d1a-58f7-43c7-aad2-e12971e50402
+1678986527576	Marionette	INFO	Stopped listening on port 45099
+1678986814195	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1678986885336	geckodriver	INFO	Listening on 127.0.0.1:47243
+1678986885841	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "56629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileggTqdl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678986886599	Marionette	INFO	Marionette enabled
+1678986886605	Marionette	INFO	Listening on port 39183
+Read port: 39183
+WebDriver BiDi listening on ws://127.0.0.1:56629
+1678986886726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileggTqdl/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:56629/devtools/browser/3fd9dd78-dd19-42de-8542-73f83c1f669e
+1678986920492	Marionette	INFO	Stopped listening on port 39183
+1678987100204	geckodriver	INFO	Listening on 127.0.0.1:50523
+1678987100709	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "57793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD28UsZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678987101444	Marionette	INFO	Marionette enabled
+1678987101448	Marionette	INFO	Listening on port 40317
+Read port: 40317
+WebDriver BiDi listening on ws://127.0.0.1:57793
+1678987101565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD28UsZ/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:57793/devtools/browser/6a348020-50ae-4c69-8f1e-ddb3823e0099
+1678987120754	Marionette	INFO	Stopped listening on port 40317
+1678987165154	geckodriver	INFO	Listening on 127.0.0.1:57413
+1678987165660	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "43441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZVStiW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678987166432	Marionette	INFO	Marionette enabled
+1678987166438	Marionette	INFO	Listening on port 43661
+Read port: 43661
+WebDriver BiDi listening on ws://127.0.0.1:43441
+1678987166554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZVStiW/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:43441/devtools/browser/1e53322b-52ed-4fbd-87ff-c4379adfcb33
+1678987212772	geckodriver	INFO	Listening on 127.0.0.1:35979
+1678987213276	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "44301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile58rLfj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678987214003	Marionette	INFO	Marionette enabled
+1678987214008	Marionette	INFO	Listening on port 44541
+Read port: 44541
+WebDriver BiDi listening on ws://127.0.0.1:44301
+1678987214125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile58rLfj/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:44301/devtools/browser/09788ba5-60d4-485f-8e20-78e42385a5cb
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:844:3
+
+console.error: "Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null\nGeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:844:3\n"
+1678987231878	geckodriver	INFO	Listening on 127.0.0.1:60657
+1678987232382	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "59087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNama5V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678987233108	Marionette	INFO	Marionette enabled
+1678987233113	Marionette	INFO	Listening on port 44961
+Read port: 44961
+WebDriver BiDi listening on ws://127.0.0.1:59087
+1678987233241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNama5V/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:59087/devtools/browser/6051e0ac-8210-43e8-813f-90586d14c5de
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+1678987346995	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1678988126500	geckodriver	INFO	Listening on 127.0.0.1:36019
+1678988127006	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "58185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7gxcO9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678988127792	Marionette	INFO	Marionette enabled
+1678988127796	Marionette	INFO	Listening on port 33051
+Read port: 33051
+WebDriver BiDi listening on ws://127.0.0.1:58185
+1678988127931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7gxcO9/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:58185/devtools/browser/b7d065e3-abfa-4b28-b009-8a78d36f77db
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1678988917673	geckodriver	INFO	Listening on 127.0.0.1:46513
+1678988918177	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "52395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQSImdX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678988918892	Marionette	INFO	Marionette enabled
+1678988918897	Marionette	INFO	Listening on port 44271
+Read port: 44271
+WebDriver BiDi listening on ws://127.0.0.1:52395
+1678988919034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQSImdX/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:52395/devtools/browser/d207a437-0eb9-43a5-8274-f683218a8515
+1678988937753	Marionette	INFO	Stopped listening on port 43661
+1678988941637	Marionette	INFO	Stopped listening on port 44961
+1678988944803	Marionette	INFO	Stopped listening on port 33051
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:844:3
+
+console.error: "Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null\nGeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:844:3\n"
+1678988949506	Marionette	INFO	Stopped listening on port 44271
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1678988951602	geckodriver	INFO	Listening on 127.0.0.1:59643
+1678988952107	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "52225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV1qX9J"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678988952862	Marionette	INFO	Marionette enabled
+1678988952868	Marionette	INFO	Listening on port 34499
+Read port: 34499
+WebDriver BiDi listening on ws://127.0.0.1:52225
+1678988952989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV1qX9J/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:52225/devtools/browser/4545b93f-b60c-4186-ba4d-7700de1e35ca
+1678989009656	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1678989120708	Marionette	INFO	Stopped listening on port 34499
+1678989122455	geckodriver	INFO	Listening on 127.0.0.1:39867
+1678989122959	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "35513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEKOuH6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678989123692	Marionette	INFO	Marionette enabled
+1678989123698	Marionette	INFO	Listening on port 45079
+Read port: 45079
+WebDriver BiDi listening on ws://127.0.0.1:35513
+1678989123815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEKOuH6/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:35513/devtools/browser/6ab034ed-a066-4a30-b070-318efd3c3bd7
+1678989151172	geckodriver	INFO	Listening on 127.0.0.1:38353
+1678989151677	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "41995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexAIkOI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678989152434	Marionette	INFO	Marionette enabled
+1678989152438	Marionette	INFO	Listening on port 40447
+Read port: 40447
+WebDriver BiDi listening on ws://127.0.0.1:41995
+1678989152560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexAIkOI/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:41995/devtools/browser/d363ef8d-4355-42c2-ba3c-ebddd65f32e9
+1678989154633	Marionette	INFO	Stopped listening on port 45079
+1678989158869	Marionette	INFO	Stopped listening on port 44541
+1678989209257	Marionette	INFO	Stopped listening on port 40447
+1678989301372	geckodriver	INFO	Listening on 127.0.0.1:38431
+1678989301877	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "34489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebi0Mny"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678989302626	Marionette	INFO	Marionette enabled
+1678989302629	Marionette	INFO	Listening on port 35355
+Read port: 35355
+WebDriver BiDi listening on ws://127.0.0.1:34489
+1678989302747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebi0Mny/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:34489/devtools/browser/926ad6a0-7d70-4f63-9b46-a1aefbd3d5cb
+1678989324891	Marionette	INFO	Stopped listening on port 35355
+1678989592918	geckodriver	INFO	Listening on 127.0.0.1:41121
+1678989593421	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "53675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepG5lxH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678989594164	Marionette	INFO	Marionette enabled
+1678989594169	Marionette	INFO	Listening on port 36515
+Read port: 36515
+WebDriver BiDi listening on ws://127.0.0.1:53675
+1678989594292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepG5lxH/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:53675/devtools/browser/6fa6051b-1c06-4d47-b101-fcbf5bd02de2
+1678989721491	Marionette	INFO	Stopped listening on port 36515
+1678990112701	geckodriver	INFO	Listening on 127.0.0.1:60635
+1678990113206	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "43519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI6NS1a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678990113930	Marionette	INFO	Marionette enabled
+1678990113936	Marionette	INFO	Listening on port 33277
+Read port: 33277
+WebDriver BiDi listening on ws://127.0.0.1:43519
+1678990114062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI6NS1a/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:43519/devtools/browser/2d30fa83-f7d4-4518-9b02-d7e1d88c4df2
+1678990128926	Marionette	INFO	Stopped listening on port 33277
+1678990140978	geckodriver	INFO	Listening on 127.0.0.1:43707
+1678990141483	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "50849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV1fPtp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678990142194	Marionette	INFO	Marionette enabled
+1678990142198	Marionette	INFO	Listening on port 40139
+WebDriver BiDi listening on ws://127.0.0.1:50849
+Read port: 40139
+1678990142332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV1fPtp/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:50849/devtools/browser/f661d447-264e-4d0b-b1c7-36e95515fe3d
+1678990163876	Marionette	INFO	Stopped listening on port 40139
+1678990184019	geckodriver	INFO	Listening on 127.0.0.1:55987
+1678990184524	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "36451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNFg57V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678990185259	Marionette	INFO	Marionette enabled
+1678990185265	Marionette	INFO	Listening on port 35107
+Read port: 35107
+WebDriver BiDi listening on ws://127.0.0.1:36451
+1678990185386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNFg57V/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:36451/devtools/browser/0fe6b01a-1194-4d9c-8d34-d69a7e97ebe7
+1678990189577	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1678990200305	Marionette	INFO	Stopped listening on port 35107
+1678990236443	geckodriver	INFO	Listening on 127.0.0.1:45253
+1678990236946	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "41351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexjVJl0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678990237693	Marionette	INFO	Marionette enabled
+1678990237697	Marionette	INFO	Listening on port 44269
+Read port: 44269
+WebDriver BiDi listening on ws://127.0.0.1:41351
+1678990237821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexjVJl0/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:41351/devtools/browser/11c049e4-2320-43cf-acdd-5b64b79a0bae
+1678990250523	Marionette	INFO	Stopped listening on port 44269
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+1678990253624	geckodriver	INFO	Listening on 127.0.0.1:52413
+1678990254130	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "58235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilednDknn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678990254893	Marionette	INFO	Marionette enabled
+1678990254898	Marionette	INFO	Listening on port 42519
+Read port: 42519
+WebDriver BiDi listening on ws://127.0.0.1:58235
+1678990255015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilednDknn/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:58235/devtools/browser/1710985f-c4cd-4db2-bed5-2468c0d1a5d0
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:844:3
+
+console.error: "Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null\nGeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:844:3\n"
+1678990293199	Marionette	INFO	Stopped listening on port 42519
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 237))
+1678990309825	geckodriver	INFO	Listening on 127.0.0.1:47621
+1678990310332	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "42381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeoNqKt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678990311081	Marionette	INFO	Marionette enabled
+1678990311086	Marionette	INFO	Listening on port 37349
+Read port: 37349
+WebDriver BiDi listening on ws://127.0.0.1:42381
+1678990311206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeoNqKt/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:42381/devtools/browser/a98526b1-4c2b-472a-9637-d94ed2cf7886
+1678990382944	Marionette	INFO	Stopped listening on port 37349
+1678990795577	geckodriver	INFO	Listening on 127.0.0.1:56183
+1678990796081	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "43591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6bZCxX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678990796815	Marionette	INFO	Marionette enabled
+1678990796820	Marionette	INFO	Listening on port 35387
+Read port: 35387
+WebDriver BiDi listening on ws://127.0.0.1:43591
+1678990796942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6bZCxX/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.sys.mjs, line 143: TypeError: date is undefined
+DevTools listening on ws://127.0.0.1:43591/devtools/browser/f31bc52c-220b-496b-9149-730b9e5368c6
+1678990809211	Marionette	INFO	Stopped listening on port 35387

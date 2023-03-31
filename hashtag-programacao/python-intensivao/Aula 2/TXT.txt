@@ -1,0 +1,16 @@
+Importar a base de dados - enconding="latin", sep=";"
+	deletar a coluna inutil
+	.drop("nome", axis= ) 0 -> linha | 1-> coluna
+Vizualizar a base de dados
+	Entender as informações que você tem disponível
+	Procurar cagadas na base de dados
+Tratamento de dados
+	acertar informações que estão sendo reconhecidas de forma errada
+	corrigir informaçoes vazias
+Análise inicial -> entender as notas dos clientes
+	quanto maior o salario, maior a nota
+	clientes de promoção sao piores
+	import plotly.express as px - pip install plotly
+	cria o grafico
+	exibe o grafico
+Análise Completa -> entender como cada característica do cliente impacta na nota
